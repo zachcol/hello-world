@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-the hello world program
+Hi im 16 learning python(:
